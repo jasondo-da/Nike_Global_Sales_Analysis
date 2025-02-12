@@ -6,7 +6,8 @@
 ## Table of Contents
 
 - [Project Introduction](#project-introduction)
-    - [E-Commerce Sales Google Sheet ](#e-commerce-sales-project-google-sheets)
+    - [E-Commerce Sales Analysis Google Sheets](#e-commerce-sales-analysis-google-sheets)
+    - [E-Commerce Sales Analysis Dataset](#e-commerce-sales-analysis-dataset)
 - [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Executive Summary](#executive-summary)
@@ -16,9 +17,14 @@
 
 This project analyzes online sales from an e-commerce platform utilizing Google Sheets to identify key performance indicators and build a real-time dashboard for shareholders to assist in data-driven business decisions.
 
-### E-Commerce Sales Project Google Sheets 
+### E-Commerce Sales Analysis Google Sheets 
 
-Link: [E-Commerce Sales Project](https://docs.google.com/spreadsheets/d/1RCDqMsMbmFCtS2hW94zfGNC1w5JhrHzF6FRzjSMuZBg/edit?usp=sharing)
+Link: [E-Commerce Sales Analysis](https://docs.google.com/spreadsheets/d/1RCDqMsMbmFCtS2hW94zfGNC1w5JhrHzF6FRzjSMuZBg/edit?usp=sharing)
+
+### E-Commerce Sales Analysis Dataset
+
+Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data)
+
 
 ## Objective
 
