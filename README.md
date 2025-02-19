@@ -1,4 +1,4 @@
-# Nike Global Sales Analysis (Analysis in Process)
+# Nike Global Sales Analysis
 
 ![image](https://github.com/user-attachments/assets/55a681d3-5bdb-477a-a2fc-3dee2bc4969f)
 
@@ -10,8 +10,7 @@
     - [Nike Global Sales Analysis Dataset](#nike-global-sales-analysis-dataset)
 - [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
-- [Executive Summary](#executive-summary)
-    - [Conclusion](#conclusion)
+- [Dashboard](#dashboard)
 
 ## Project Introduction
 
@@ -32,9 +31,25 @@ Utilize Google Sheets to identify key performance indicators and build a real-ti
 
 ## Analysis Outline
 
+Dashboard key performance metrics include:
+
+•	2024 Global Sales
+
+•	Categorical Sales by Market
+
+•	Revenue Market Share by Region
+
+•	Categorical Sales by Volume
+
+•	Monthly Sales by Category
+
+•	Online vs Retail Sales
+
+•	Top 5 Selling Products
+
+•	Monthly Sales by Price Tiers
 
 
-## Executive Summary
+## Dashboard
 
-### Conclusion
-
+![image](https://github.com/user-attachments/assets/e0d9fe7e-25c8-4e00-9ad8-b0b90dd2e69e)
