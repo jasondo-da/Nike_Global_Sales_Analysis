@@ -8,7 +8,6 @@
 - [Project Introduction](#project-introduction)
     - [Nike Global Sales Analysis in Google Sheets](#nike-global-sales-analysis-in-google-sheets)
     - [Nike Global Sales Analysis Dataset](#nike-global-sales-analysis-dataset)
-- [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Dashboard](#dashboard)
 
@@ -24,10 +23,6 @@ Link: [Nike Global Sales Analysis](https://docs.google.com/spreadsheets/d/1jyjGM
 
 Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024)
 
-
-## Objective
-
-Utilize Google Sheets to identify key performance indicators and build a real-time dashboard for shareholders to assist in data-driven business decisions. 
 
 ## Analysis Outline
 
