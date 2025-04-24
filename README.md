@@ -15,11 +15,11 @@
 
 This project analyzes Nike's global sales in 2024, utilizing Google Sheets to identify key performance indicators and build a real-time dashboard for shareholders to assist in data-driven business decisions. 
 
-### Nike Global Sales Analysis in Google Sheets 
+## Nike Global Sales Analysis in Google Sheets 
 
 Link: [Nike Global Sales Analysis](https://docs.google.com/spreadsheets/d/1jyjGM5so5nkSOfy4nIrgU_kqcJxUgST2sn0BhdglUOU/edit?usp=sharing)
 
-### Nike Global Sales Analysis Dataset
+## Nike Global Sales Analysis Dataset
 
 Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024)
 
